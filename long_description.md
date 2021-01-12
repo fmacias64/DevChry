@@ -1,4 +1,4 @@
-Flickr Person is a **demo application** for PyBossa that shows how you can
+DevChry Devchry Person is a **demo application** for PyBossa that shows how you can
 crowdsourcing an image classification problem.
 
 This application uses the Flickr web service as the source of the data. By
